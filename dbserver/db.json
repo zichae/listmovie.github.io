@@ -1,0 +1,95 @@
+{
+  "film": [
+    {
+      "id": 1,
+      "title": "Blood Shot",
+      "description": "Bloodshot adalah film superhero Amerika tahun 2020 berdasarkan karakter Valiant Comics dengan nama yang sama.",
+      "director": "David S.F. Wilson",
+      "rating": "4.5",
+      "posterImageUrl": "images/bloodshot.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Human Capital",
+      "description": "The lives of two different families collide when their children begin a relationship that leads to a tragic accident.",
+      "director": "Marc Meyers",
+      "rating": "6.2",
+      "posterImageUrl": "images/humancapital.jpg"
+    },
+    {
+      "id": 3,
+      "title": "I Still Believe",
+      "description": "Kisah kehidupan nyata bintang musik Kristen Jeremy Camp dan perjalanan cinta dan kehilangannya yang membuktikan bahwa selalu ada harapan.",
+      "director": " The Erwin Brothers",
+      "rating": "6.5",
+      "posterImageUrl": "images/istillbelieve.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Lost Girls",
+      "description": "Bertekad untuk menemukan putrinya yang hilang, seorang wanita putus asa meluncurkan penyelidikan pribadi yang mengarahkan polisi ke kasus pembunuhan pekerja seks yang belum terpecahkan.",
+      "director": "Liz Garbus",
+      "rating": "6.1",
+      "posterImageUrl": "images/lostgirls.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Onward",
+      "description": "Dua saudara elf memulai pencarian untuk membawa ayah mereka kembali selama satu hari.",
+      "director": "Dan Scanlon",
+      "rating": "7.4",
+      "posterImageUrl": "images/onward.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Resistance",
+      "description": "Kisah pantomim Marcel Marceau dan Perlawanan Prancis untuk menyelamatkan nyawa sepuluh ribu anak yatim selama Perang Dunia II.",
+      "director": "Jonathan Jakubowicz",
+      "rating": "6.2",
+      "posterImageUrl": "images/resistance.jpg"
+    },
+    {
+      "id": 7,
+      "title": "The Call of the Wild",
+      "description": "Seekor anjing kereta luncur berjuang untuk bertahan hidup di belantara Yukon.",
+      "director": "Chris Sanders",
+      "rating": "6.8",
+      "posterImageUrl": "images/TheCallWild.jpg"
+    },
+    {
+      "id": 8,
+      "title": "The Hunt",
+      "description": "Tentang Pemburuan Manusia",
+      "director": "David S.F. Wilson",
+      "rating": "4.5",
+      "posterImageUrl": "images/thehunt.jpg"
+    },
+    {
+      "id": 9,
+      "title": "The Invisible Man",
+      "description": "Tentang Setan yang tidak terlihat.",
+      "director": "Leigh Whannell",
+      "rating": "7.1",
+      "posterImageUrl": "images/theinvisibleman.jpg"
+    },
+    {
+      "id": 10,
+      "title": "The Medium",
+      "description": "Tentang Suatu Kecil di thailand.",
+      "director": "Banjong Pisanthanakun",
+      "rating": "6.7",
+      "posterImageUrl": "images/themedium.jpg"
+    }
+  ],
+  "favorite": [
+    {
+      "id": "3"
+    },
+    {
+      "id": "4"
+    },
+    {
+      "id": "2"
+    }
+  ]
+}
